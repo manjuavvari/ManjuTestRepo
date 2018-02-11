@@ -1,11 +1,14 @@
 # Welcome to Manjunath's Python Programming
 
+# Addition
 5 + 5
 a = 2
 b = 3
 c = a + b
 c
 
+# Multiplication
 a = 4
 b = 5
 c = a * b
+
